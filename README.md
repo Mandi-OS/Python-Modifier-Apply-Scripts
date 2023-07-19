@@ -1,2 +1,2 @@
 # Python-Modifier-Apply-Scripts
-Here you can find scripts for applying modifiers by groups in Blender!
+Here you can find scripts to apply and delete modifiers by group in Blender!
